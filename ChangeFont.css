@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RainyHearts';
+    src: url('https://github.com/Dezzrae5/my-font-repo/raw/main/rainyhearts.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body, p, h1, h2, h3, h4, h5, h6, a, span, div, li, ul, ol, input, textarea, button, blockquote, pre, code, th, td, table {
+    font-family: 'RainyHearts', sans-serif !important;
+}
